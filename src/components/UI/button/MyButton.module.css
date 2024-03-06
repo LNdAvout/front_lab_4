@@ -1,0 +1,13 @@
+.myButton {
+    padding: 5px 15px;
+    color: darkmagenta;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid darkmagenta;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.myButton:hover {
+    background-color: darkmagenta;
+    color: white;
+}
